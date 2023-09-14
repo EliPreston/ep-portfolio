@@ -12,6 +12,10 @@ A minimal portfolio.
 
 **Solution** In package.json, changed "deploy": "gh-pages -d deploy" to "deploy": "gh-pages -d dist"
 
+**Issue** Github Pages couldn't find images or project from /public/assets folder
+
+**Solution** Remove '/' from beginning of src/href file paths "/assets/img_name.imgtype" -> "assets/...."
+
 
 
 ## Dependencies

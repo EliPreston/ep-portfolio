@@ -8,21 +8,21 @@ export default [
     },
     {
         title: 'Project2 Name',
-        imgUrl: 'vite.svg',
+        imgUrl: 'assets/Countach2_Konji.jpg',
         description: 'This project was made using Python, the Requests library, and the Spotify developer API.',
         stack: ['Python', 'Requests', 'Spotify API'],
         link: 'https://google.com'
     },    
     {
         title: 'Project3 Name',
-        imgUrl: 'public/assets/NSX01.jpg',
+        imgUrl: 'assets/NSX01.jpg',
         description: 'This project was made using React, TailwindCSS, and the Vite build system.',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://google.com'
     },    
     {
         title: 'Project4 Name',
-        imgUrl: 'public/assets/NSX02.jpg',
+        imgUrl: 'assets/NSX02.jpg',
         description: 'This project was made using Python, the Pandas library, and the Numpy library.',
         stack: ['Python', 'Pandas', 'Numpy'],
         link: 'https://google.com'
