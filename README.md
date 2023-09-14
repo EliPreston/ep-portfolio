@@ -9,6 +9,7 @@ A minimal portfolio.
 **Solution** Downgraded to the LTS version of NodeJS
 
 **Issue** Error: ENOENT: no such file or directory, stat
+
 **Solution** In package.json, changed "deploy": "gh-pages -d deploy" to "deploy": "gh-pages -d dist"
 
 
