@@ -1,14 +1,14 @@
 export default [
     {
         title: 'Project Name',
-        imgUrl: '/public/assets/Countach_Konji.jpg',
+        imgUrl: '/assets/Countach_Konji.jpg',
         description: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse volutpat urna vel vestibulum elementum. Integer volutpat justo non mollis consectetur. Aenean ac volutpat tortor. In hac habitasse platea dictumst. Etiam ut ornare enim, sit amet sodales metus.',
         stack: ['HTML', 'CSS', 'JavaScript'],
         link: 'https://google.com'
     },
     {
         title: 'Project2 Name',
-        imgUrl: '/public/assets/Countach2_Konji.jpg',
+        imgUrl: '/vite.svg',
         description: 'This project was made using Python, the Requests library, and the Spotify developer API.',
         stack: ['Python', 'Requests', 'Spotify API'],
         link: 'https://google.com'
