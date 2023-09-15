@@ -4,13 +4,13 @@ A minimal portfolio.
 
 ## Issues/Bugs Dealt With
 
-**Issue** 'failed to load config from /Users/*****/******/portfolio-mnml/vite.config.js'
+**Issue** 'failed to load config from /-----/-----/-----/ep-portfolio/vite.config.js'
 
 **Solution** Downgraded to the LTS version of NodeJS
 
-**Issue** Error: ENOENT: no such file or directory, stat
+**Issue** Error: ENOENT: no such file or directory, stat '---/----/-----/----'
 
-**Solution** In package.json, changed "deploy": "gh-pages -d deploy" to "deploy": "gh-pages -d dist"
+**Solution** In package.json, changed *"deploy"* in "gh-pages -d deploy" to *"dist"*: "gh-pages -d dist"
 
 **Issue** Github Pages couldn't find images or project from /public/assets folder
 
